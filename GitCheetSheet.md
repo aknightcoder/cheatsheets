@@ -37,6 +37,7 @@
 ### Delete remote branch:
 
 As of Git v1.7.0, you can delete a remote branch using
+
 `git push origin --delete <branch name>`
 
 
