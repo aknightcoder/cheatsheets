@@ -68,7 +68,8 @@ git rm <filename>.txt
 git commit -m "Remove <filename>.txt"
 ```
 But if you want to remove the file only from the Git repository and not remove it from the filesystem, use: 
-git rm --cached file1.txt
+
+`git rm --cached file1.txt`
 
 ### Clone repository:
 
